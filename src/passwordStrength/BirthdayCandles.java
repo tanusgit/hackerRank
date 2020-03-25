@@ -7,7 +7,7 @@ public class BirthdayCandles {
 		System.out.println(res);
 	}
 
-	// Complete the birthdayCakeCandles function below.
+	// retunrs the number of time the biggest element appears in the array list
 	static int birthdayCakeCandles(int[] ar) {
 		int max = 0;
 		int count = 0;
